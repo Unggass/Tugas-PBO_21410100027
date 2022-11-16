@@ -38,7 +38,7 @@ public class LionAir extends Tiket{
             if ((gettujuan().equalsIgnoreCase("Bali")) || (gettujuan().equalsIgnoreCase("Lombok"))) {
                 this.harga = 500000;
             }
-            else if ((gettujuan().equalsIgnoreCase("jakarta")) || (gettujuan().equalsIgnoreCase("Yohyakarta"))) {
+            else if ((gettujuan().equalsIgnoreCase("jakarta")) || (gettujuan().equalsIgnoreCase("Yogyakarta"))) {
                 this.harga = 600000;
             }
             else if ((gettujuan().equalsIgnoreCase("Balikpapan")) || (gettujuan().equalsIgnoreCase("Makassar"))) {
@@ -52,7 +52,7 @@ public class LionAir extends Tiket{
             if ((gettujuan().equalsIgnoreCase("Bali")) || (gettujuan().equalsIgnoreCase("Lombok"))) {
                 this.harga = 700000;
             }
-            else if ((gettujuan().equalsIgnoreCase("Surabaya")) || (gettujuan().equalsIgnoreCase("Yohyakarta"))) {
+            else if ((gettujuan().equalsIgnoreCase("Surabaya")) || (gettujuan().equalsIgnoreCase("Yogyakarta"))) {
                 this.harga = 750000;
             }
             else if ((gettujuan().equalsIgnoreCase("Balikpapan")) || (gettujuan().equalsIgnoreCase("Makassar"))) {
